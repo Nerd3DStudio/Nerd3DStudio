@@ -3,7 +3,7 @@
 Il nome **Nerd3DStudio** e il relativo **logo** sono marchi di proprietà di **Marcello Pirolo**.
 
 ### Utilizzo consentito
-Il codice sorgente di questo progetto è rilasciato sotto licenza Apache 2.0. Tuttavia, tale licenza non include il diritto di utilizzare il nostro logo o nome commerciale.
+Il codice sorgente di questo progetto è rilasciato sotto licenza GNU GPL v3.0. Tuttavia, tale licenza non include il diritto di utilizzare il nostro logo o nome commerciale.
 
 ### Restrizioni per i Fork
 Se decidi di creare una copia (fork) del progetto e modificarlo:
